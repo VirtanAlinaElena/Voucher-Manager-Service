@@ -1,3 +1,3 @@
 public interface Strategy {
-    public void execute(Campaign c);
+    public Voucher execute(Campaign c);
 }
